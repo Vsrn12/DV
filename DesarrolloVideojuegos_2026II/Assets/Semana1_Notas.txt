@@ -1,0 +1,30 @@
+La evolución histórica de los videojuegos:
+Los videojuegos nacieron a inicios de los años 70 con experimentos como Pong, propuestas
+muy simples centradas en la reacción inmediata del jugador. Las primeras representadas en
+Genero Plataformas: títulos como Super Mario Bros
+(1985) tomaron esa simplicidad original y la convirtieron en control preciso y progresión
+por niveles, sentando las bases del diseño moderno.
+ 
+En los 80 y 90 la industria se diversificó con fuerza. El Genero Accion y el
+Genero Aventura crecieron junto al hardware, permitiendo historias más largas y ritmos
+de juego más variados, mientras que el Genero RPG heredó la profundidad narrativa y de
+progresión de los juegos de rol de mesa, adaptándola a sistemas de estadísticas y
+decisiones del jugador. Paralelamente, el Genero Estrategia y el Genero Puzzle
+mostraron que el videojuego también podía apelar al pensamiento lógico y la planificación,
+no solo a los reflejos.
+ 
+Con la llegada de los gráficos 3D y, después, de internet, aparecieron el Genero Simulacion,
+enfocado en replicar sistemas reales o imaginarios con reglas propias, y el
+Genero_Deportes, que trasladó la competencia física a un entorno digital cada vez más
+fiel a la realidad. Esta etapa conectada abrió el camino a experiencias masivas en línea.
+ 
+El género destacado que me correspondió, Battle Royale, es un ejemplo claro de esa etapa
+más reciente: surgió a mediados de la década de 2010 (popularizado por PUBG y luego
+Fortnite) combinando supervivencia, un mapa que se reduce con el tiempo y partidas
+multijugador masivas, algo que solo fue posible gracias a la infraestructura online y de
+servidores que la industria desarrolló en las décadas anteriores.
+ 
+En conjunto, los ocho géneros representados en mi escena no son compartimentos
+aislados, sino distintas etapas y enfoques de una misma evolución: de la simplicidad de
+Pong a la complejidad narrativa del RPG, pasando por la lógica del puzzle y la estrategia,
+hasta llegar a experiencias sociales masivas como el Battle Royale.
